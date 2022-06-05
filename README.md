@@ -1,4 +1,4 @@
-# An investigation into Parkrun Bingo 
+# Parkrun Bingo 
 The following video by _Stand-up Maths_ explores the **Coupon Collector's Problem** and how it can be applied to parkrun to achieve **Parkrun Bingo**! 
 
 [![explanation of parkrun bingo](https://img.youtube.com/vi/BstloCx8KDk/0.jpg)](https://www.youtube.com/watch?v=BstloCx8KDk)  
